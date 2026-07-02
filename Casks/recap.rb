@@ -1,6 +1,6 @@
 cask "recap" do
-  version "0.1.1"
-  sha256 "dd0830e39c28f088498d98000f3c433be42e46f091f687f32e096e56cc817807"
+  version "0.2.0"
+  sha256 "69f405ba279de46366abe72e7f9825286b70d3fb10dd6bd261422627eb1df552"
 
   url "https://github.com/gregorymfoster/recap/releases/download/v#{version}/Recap-#{version}.dmg"
   name "Recap"
